@@ -10,4 +10,4 @@ My daily journey of learning Python from basics to automation and web scraping.
 * Day 05: Loops (while, for), range() function, control flow (break, continue), and table generator.
 * Day 06: Functions, parameters, return values, default arguments, and recursion logic.
 * Day 07: File I/O in Python (Reading, Writing, Appending, `with` syntax, line search, and practice questions)
-
+* Day 08: OOPs Part 1 (Classes, Objects, `__init__` constructor, Attributes, Methods, and Practice Questions)
